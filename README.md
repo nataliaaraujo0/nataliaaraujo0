@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá 👾👋
+## Eu sou a Natália Araújo
+ - :mage: Gosto de me envolver em projetos criativos, Bootcamps, podcasts e passar meu conhecimento para amigos/comunidade
+- :computer::dart:Sou Front-End e meu foco é voltado para a linguagem de programação JavaScript
+- :books::black_nib:Estou estudando React, TypeScript e UI Design
+ ## Minhas Skills
+![lik](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![lik](https://img.icons8.com/ios-filled/50/000000/css-filetype.png)
+![lik](https://img.icons8.com/color/48/000000/typescript.png)
+![lik](https://img.icons8.com/color/48/000000/react-native.png)
 
-<!--
-**nataliaaraujo0/nataliaaraujo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contato
+<a href="https://www.linkedin.com/in/nat%C3%A1lia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-Here are some ideas to get you started:
+## Linguagens mais usadas e Commits
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaaraujo0&layout=compact)](https://github.com/nataliaaraujo0/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliaaraujo0&show_icons=true&theme=tokyonight)
+![Snake animation](https://github.com/rafaballerini/nataliaaraujo0/blob/output/github-contribution-grid-snake.svg)
+
+
