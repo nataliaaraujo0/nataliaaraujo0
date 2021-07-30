@@ -10,12 +10,13 @@
 ![lik](https://img.icons8.com/color/48/000000/react-native.png)
 
 ## Contato
+
 <a href="https://www.linkedin.com/in/nat%C3%A1lia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## Linguagens mais usadas e Commits
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaaraujo0&layout=compact)](https://github.com/nataliaaraujo0/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliaaraujo0&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaaraujo0&layout=compact)](https://github.com/nataliaaraujo0/github-readme-stats)
 
 
 
