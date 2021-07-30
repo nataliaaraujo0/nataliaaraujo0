@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá! 👋
 ## Eu sou a Natália Araújo 👾
  - :mage: Gosto de me envolver em projetos criativos, Bootcamps, podcasts e passar meu conhecimento para amigos/comunidade
 - :computer::dart:Sou Front-End e meu foco é voltado para a linguagem de programação JavaScript
