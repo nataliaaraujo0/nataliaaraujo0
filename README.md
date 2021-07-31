@@ -5,7 +5,6 @@
 - :books::black_nib:Estou estudando React.Js, TypeScript, Next.Js e UI Design
  ## Minhas Skills:
 ![lik](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![lik](https://img.icons8.com/ios-filled/50/000000/css-filetype.png)
 ![lik](https://img.icons8.com/color/48/000000/typescript.png)
 ![lik](https://img.icons8.com/color/48/000000/react-native.png)
 
