@@ -1,3 +1,5 @@
+![banner](./banner.png)
+
 ### Olá! 👋
 ## Eu sou a Natália Araújo 👾
  - :mage: Gosto de me envolver em projetos criativos, Bootcamps, podcasts e passar meu conhecimento para amigos/comunidade
