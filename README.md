@@ -5,9 +5,11 @@
 - :books::black_nib:Estou estudando React.Js, TypeScript, Next.Js e UI Design
  ## Minhas Skills:
 ![lik](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![lik](https://img.icons8.com/color/48/000000/typescript.png)
 ![lik](https://img.icons8.com/color/48/000000/react-native.png)
 
+## Estou estudando:
+![lik](https://img.icons8.com/color/48/000000/typescript.png)
+![link](https://img.icons8.com/fluency/48/000000/api.png)
 ## Contato:
 
 <a href="https://www.linkedin.com/in/nat%C3%A1lia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
