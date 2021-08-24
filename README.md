@@ -1,7 +1,7 @@
 ![banner](./banner.png)
 
-👾
-<p align="left">
+
+👾<p align="left">
    Atualmente estou estudando sobre responsividade, Ui Design e Context API.
 </p>
 
