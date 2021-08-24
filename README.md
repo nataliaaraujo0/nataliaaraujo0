@@ -1,12 +1,9 @@
 ![banner](./banner.png)
 
 👾
- - :mage: Gosto de me envolver em projetos criativos, Bootcamps, podcasts e passar meu conhecimento para amigos/comunidade
-- :computer::dart:Sou Front-End e meu foco é voltado para a linguagem de programação JavaScript
-- :books::black_nib:Estou estudando React.Js, TypeScript, Next.Js e UI Design
- ## Minhas Skills:
-![lik](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![lik](https://img.icons8.com/color/48/000000/react-native.png)
+<p align="left">
+   Atualmente estou estudando sobre responsividade, Ui Design e Context API.
+</p>
 
 ## Estou estudando:
 ![lik](https://img.icons8.com/color/48/000000/typescript.png)
