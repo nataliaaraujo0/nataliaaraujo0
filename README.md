@@ -26,8 +26,8 @@
 </div>
 <br/>
   <div align="center">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=nataliaaraujo0&show_icons=true&t&theme=nightowl"/>
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaaraujo0&langs_count=4)](https://github.com/anuraghazra/github-readme-statsCompact&theme=shades-of-purple"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nataliaaraujo0&show_icons=true&t&theme=nightowl"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaaraujo0&langs_count=4)](https://github.com/anuraghazra/github-readme-statsCompact&theme=shades-of-purple"/>
 </div>
 
 
