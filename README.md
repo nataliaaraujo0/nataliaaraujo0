@@ -1,11 +1,11 @@
 ![banner](./banner.png)
 
 
-👾<p align="left">
-   Atualmente estou estudando sobre responsividade, Ui Design e Context API.
+<p align="left">
+  🚀Atualmente estou estudando sobre responsividade, Ui Design e Context API.
 </p>
 
-## Estou estudando:
+## Meu foco:
 ![lik](https://img.icons8.com/color/48/000000/typescript.png)
 ![link](https://img.icons8.com/fluency/48/000000/api.png)
 ## Contato:
