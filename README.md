@@ -3,7 +3,7 @@
 
 
 <p align="left">
-  🚀Atualmente estou estudando sobre responsividade, UI Design e Context API.
+  🚀Atualmente estou estudando sobre responsividade e Context API.
 </p>
 
 <p align="left">
