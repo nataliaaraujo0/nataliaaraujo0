@@ -1,8 +1,18 @@
 
-  ![banner](./banner.png)
+<div align="center">
+  
+![Group 2](https://user-images.githubusercontent.com/81394067/142791574-2e6777ec-fb56-4f9c-8298-8c32180a006b.png)
+  
+ ## Olá, meu nome é Natália Araújo 
+ 
+  <p>Sou estudante de Análise e Desenvolvimento de sistemas, e atualmente, estou me dedicando à minha profissionalização enquanto Front-end Developer e UI Design, utilizando a linguagem de programação Javascript, em específico React e a ferramenta Figma.
+  
+Gosto de participar de Bootcamps, projetos criativos, ouvir podcasts sobre o universo Dev em geral, passar meus conhecimentos para amigos/comunidade e trocar experiências. </p>
+</div>
 
+<br>
 
-<p align="left">
+<p>
   🚀Atualmente estou estudando sobre Redux e NextJs.
 </p>
 
