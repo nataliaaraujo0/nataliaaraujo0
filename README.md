@@ -3,7 +3,7 @@
 
 
 <p align="left">
-  🚀Atualmente estou estudando sobre responsividade e Context API.
+  🚀Atualmente estou estudando sobre Redux e NextJs.
 </p>
 
 <p align="left">
