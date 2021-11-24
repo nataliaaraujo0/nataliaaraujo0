@@ -20,7 +20,7 @@ Gosto de participar de Bootcamps, projetos criativos, ouvir podcasts sobre o uni
  🎯 Meu foco:
 </p>
 
-![link](https://img.icons8.com/office/40/000000/css.png)
+
 ![lik](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![link](https://img.icons8.com/fluency/48/000000/api.png)
 ![link](https://img.icons8.com/color/48/000000/typescript.png)
