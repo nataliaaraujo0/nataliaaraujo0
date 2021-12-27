@@ -1,7 +1,8 @@
 
 <div align="center">
   
-![Group 2](https://user-images.githubusercontent.com/81394067/142791574-2e6777ec-fb56-4f9c-8298-8c32180a006b.png)
+![Avatar](https://user-images.githubusercontent.com/81394067/147434627-0228823c-2e1d-4a73-9c8f-01193f9e6f20.png)
+
   
  ## Olá, meu nome é Natália Araújo 
  
