@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![Avatar](https://user-images.githubusercontent.com/81394067/147434627-0228823c-2e1d-4a73-9c8f-01193f9e6f20.png)
+![LinkedIn Banner (1)](https://user-images.githubusercontent.com/81394067/148012482-425fcb25-be07-47bf-ba01-3f77021e4d2d.png)
 
   
  ## Olá, meu nome é Natália Araújo 
@@ -14,18 +14,10 @@ Gosto de participar de Bootcamps, projetos criativos, ouvir podcasts sobre o uni
 <br>
 
 <p>
-  🚀Atualmente estou estudando sobre Redux e NextJs.
-</p>
-
-<p align="left">
- 🎯 Meu foco:
+  🚀Atualmente estou estudando sobre NextJs.
 </p>
 
 
-![lik](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![link](https://img.icons8.com/fluency/48/000000/api.png)
-![link](https://img.icons8.com/color/48/000000/typescript.png)
-![link](https://img.icons8.com/officel/40/000000/react.png)
 
 <p align="left">
  ✉ Contato:
