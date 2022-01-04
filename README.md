@@ -6,9 +6,10 @@
   
  ## Olá, meu nome é Natália Araújo 
  
-  <p>Sou estudante de Análise e Desenvolvimento de sistemas, e atualmente, estou me dedicando à minha profissionalização enquanto Front-end Developer e UI Design, utilizando a linguagem de programação Javascript, em específico React e a ferramenta Figma.
-  
-Gosto de participar de Bootcamps, projetos criativos, ouvir podcasts sobre o universo Dev em geral, passar meus conhecimentos para amigos/comunidade e trocar experiências. </p>
+  <p> Estudante de Análise e Desenvolvimento de sistemas, e atualmente, estou me dedicando à minha profissionalização enquanto Front-end Developer, utilizando a linguagem de programação Javascript, em específico React.
+
+Gosto de participar de Bootcamps, projetos criativos, ouvir podcasts sobre o universo Dev em geral, passar meus conhecimentos para amigos/comunidade e trocar experiências. 
+  </p>
 </div>
 
 <br>
