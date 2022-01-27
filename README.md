@@ -2,7 +2,13 @@
 <div align="center">
   
 ![LinkedIn Banner (1)](https://user-images.githubusercontent.com/81394067/148012482-425fcb25-be07-47bf-ba01-3f77021e4d2d.png)
+  
 
+  ## Total de Visitas no perfil 🕵️ <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/nataliaaraujo0/count.svg" />
+ </p>
+  
   
  ## Olá, meu nome é Natália Araújo 
  
