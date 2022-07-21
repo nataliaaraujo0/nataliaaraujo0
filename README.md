@@ -16,11 +16,6 @@ Gosto de participar de Bootcamps, projetos criativos, ouvir podcasts sobre o uni
 
 <br>
 
-<p>
-  🚀Atualmente estou estudando sobre NextJs.
-</p>
-
-
 
 <p align="left">
  ✉ Contato:
