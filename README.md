@@ -8,9 +8,9 @@
   
  ## Olá, meu nome é Natália Araújo 
  
-  <p> Estudante de Análise e Desenvolvimento de sistemas, e atualmente, estou me dedicando à minha profissionalização enquanto Front-end Developer, utilizando a linguagem de programação Javascript, em específico React.
+  <p> Acadêmica do curso de Análise e Desenvolvimento de Sistemas e atualmente focada em desenvolvimento Front-end, centrada em Javascript (ReactJS). 
 
-Gosto de participar de Bootcamps, projetos criativos, ouvir podcasts sobre o universo Dev em geral, passar meus conhecimentos para amigos/comunidade e trocar experiências. 
+Gosto de participar de bootcamps, projetos criativos/agregadores, ouvir podcasts sobre o universo tech, passar meus conhecimentos para amigos/comunidade e trocar experiências.
   </p>
 </div>
 
